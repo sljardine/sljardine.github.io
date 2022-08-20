@@ -7,8 +7,7 @@ author_profile: true
 
 
 
-Current 
-======
+## Current 
 
 Monica Mocaer, MMA Student
 
@@ -18,8 +17,7 @@ Caitie Sheban, MMA Student
 
 Hannah Tennent, MMA Student
 
-Past
-======
+## Past
 
 [Braeden Van Deynze](https://www.vandeynze.com), Postdoctoral Scholar, Current Position: Economist, Washington Department of Fish and Wildlife
 
