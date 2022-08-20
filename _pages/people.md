@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "People"
+title: "Students and Postdoctoral Scholars"
 permalink: /people/
 author_profile: true
 ---
+
+
 
 Current 
 ======
@@ -21,7 +23,7 @@ Past
 
 [Braeden Van Deynze](https://www.vandeynze.com), Postdoctoral Scholar, Current Position: Economist, Washington Department of Fish and Wildlife
 
-Stuart Jones, 2021 MMA Graduate, Research Scientist
+Stuart Jones, 2021 MMA Graduate
 
 Connor Lewis-Smith, MMA Student
 

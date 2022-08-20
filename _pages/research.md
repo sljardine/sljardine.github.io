@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-For a full list of my publications and grants see my [Curriculum Vitae](/files/Jardine CV.pdf) or [Google Scholar page](https://scholar.google.com/citations?user=h4BCQ3oAAAAJ&hl=en&oi=ao). Below I summarize projects that are currently taking up most of my research time. 
+For a full list of my publications and grants see my [Curriculum Vitae](/files/Jardine_CV.pdf) or [Google Scholar page](https://scholar.google.com/citations?user=h4BCQ3oAAAAJ&hl=en&oi=ao). Below I summarize projects that are currently taking up most of my research time. 
 
 # Harmful Algal Blooms
 
