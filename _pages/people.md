@@ -21,7 +21,7 @@ Hannah Tennent, MMA Student
 
 [Braeden Van Deynze](https://www.vandeynze.com), Postdoctoral Scholar, Current Position: Economist, Washington Department of Fish and Wildlife
 
-Stuart Jones, 2021 MMA Graduate
+Stuart Jones, MMA Graduate
 
 Connor Lewis-Smith, MMA Student
 
