@@ -23,9 +23,9 @@ Hannah Tennent, MMA Student
 
 Stuart Jones, MMA Graduate
 
-Connor Lewis-Smith, MMA Student
+Connor Lewis-Smith, MMA Graduate
 
-Megan Willmann, MMA Student
+Megan Willmann, MMA Graduate
 
 Adam L. Hayes, Postdoctoral Scholar
 
