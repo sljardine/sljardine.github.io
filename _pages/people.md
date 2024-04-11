@@ -9,15 +9,21 @@ author_profile: true
 
 ## Current 
 
+J Kahn, MS Student (QERM)
+
 Monica Mocaer, MMA Student
 
-Kathryn Husiak, MMA Student
+Teagan Darmody, MMA Student
 
-Caitie Sheban, MMA Student
-
-Hannah Tennent, MMA Student
+Logan Blair, Postdoctoral Scholar
 
 ## Past
+
+Kathryn Husiak, MMA Graduate
+
+Caitie Sheban, MMA Graduate
+
+Hannah Tennent, MMA Graduate
 
 [Braeden Van Deynze](https://www.vandeynze.com), Postdoctoral Scholar, Current Position: Economist, Washington Department of Fish and Wildlife
 
