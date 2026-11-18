@@ -15,7 +15,7 @@ Hannah Pikel, MMA Student
 
 Isabella Brandes, MMA Student
 
-Hiroshia Kishimoto, MMA Student
+Hirohisa Kishimoto, MMA Student
 
 Anders Bradley, MMA Student
 
@@ -29,17 +29,17 @@ Adam L. Hayes, 2019-2021
 
 ## Past Students
 
-Teagan Darmody, MMA Graduate
+Teagan Darmody, 2025 MMA Graduate
 
-Eitan Gerstle, MMA Graduate
+Eitan Gerstle, 2025 MMA Graduate
 
-Elise Wilson-Leedy, MMA Graduate
+Elise Wilson-Leedy, 2025 MMA Graduate
 
-Erica Mackenzie, MMA Graduate
+Erica Mackenzie, 2025 MMA Graduate
 
 J Kahn, 2025 MS Graduate (QERM)
 
-Monica Mocaer, 2025 MMA Graduate
+Monica Thom, 2025 MMA Graduate
 
 Kathryn Husiak, 2023 MMA Graduate
 
