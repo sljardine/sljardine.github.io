@@ -7,33 +7,51 @@ author_profile: true
 
 
 
-## Current 
+## Current
 
-J Kahn, MS Student (QERM)
+Guy Bennevat Haninovich, MS Student (QERM)
 
-Monica Mocaer, MMA Student
+Hannah Pikel, MMA Student
 
-Teagan Darmody, MMA Student
+Isabella Brandes, MMA Student
 
-Logan Blair, Postdoctoral Scholar
+Hiroshia Kishimoto, MMA Student
 
-## Past
+Anders Bradley, MMA Student
 
-Kathryn Husiak, MMA Graduate
+## Past Postdoctoral Scholars
 
-Caitie Sheban, MMA Graduate
+Logan Blair, 2023
 
-Hannah Tennent, MMA Graduate
+Braeden Van Deynze, 2019-2022
 
-[Braeden Van Deynze](https://www.vandeynze.com), Postdoctoral Scholar, Current Position: Economist, Washington Department of Fish and Wildlife
+Adam L. Hayes, 2019-2021
 
-Stuart Jones, MMA Graduate
+## Past Students
 
-Connor Lewis-Smith, MMA Graduate
+Teagan Darmody, MMA Graduate
 
-Megan Willmann, MMA Graduate
+Eitan Gerstle, MMA Graduate
 
-Adam L. Hayes, Postdoctoral Scholar
+Elise Wilson-Leedy, MMA Graduate
+
+Erica Mackenzie, MMA Graduate
+
+J Kahn, 2025 MS Graduate (QERM)
+
+Monica Mocaer, 2025 MMA Graduate
+
+Kathryn Husiak, 2023 MMA Graduate
+
+Caitie Sheban, 2023 MMA Graduate
+
+Hannah Tennent, 2023 MMA Graduate
+
+Connor Lewis-Smith, 2022 MMA Graduate
+
+Megan Willmann, 2022 MMA Graduate
+
+Stuart Jones, 2021 MMA Graduate
 
 Katy Bland, 2021 MMA Graduate
 
@@ -59,7 +77,7 @@ Priscilla Rivas, 2019 MMA Graduate
 
 Alexandra Stote, 2019 MMA Graduate
 
-Diana Perry, 2018 MMA Graduate 
+Diana Perry, 2018 MMA Graduate
 
 Lange Solberg, 2018 MMA Graduate
 
